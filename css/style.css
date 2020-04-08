@@ -1,0 +1,23 @@
+/*タグ*/
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+/*ID*/
+#main {
+    font-size: 100px;
+    text-align: center;
+}
+
+/*クラス*/
+.big {
+    font-size: 60px;
+}
+
+.box {
+    background: seagreen;
+}
